@@ -5,3 +5,4 @@ This repo will be used to practice ML algos
 * K-Nearest Neighbour
 * Support Vector Machine
 * Random Forest
+* Decision Tree
